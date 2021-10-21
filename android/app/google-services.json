@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638347373763",
+    "project_id": "heka-app-a9b7f",
+    "storage_bucket": "heka-app-a9b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638347373763:android:6c502cec7ff22c8fd08676",
+        "android_client_info": {
+          "package_name": "com.heka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638347373763-rufif742omtesbnuu95b44tvtbhiu24f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSya8mQgZnIYW1_iuyLcgsbqVsFG41jUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638347373763-rufif742omtesbnuu95b44tvtbhiu24f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
